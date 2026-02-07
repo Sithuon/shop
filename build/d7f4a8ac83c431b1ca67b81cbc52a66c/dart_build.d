@@ -1,0 +1,1 @@
+ C:\\Users\\ASUS\\Desktop\\shop\\build\\d7f4a8ac83c431b1ca67b81cbc52a66c\\dart_build_result.json:  C:\\Users\\ASUS\\Desktop\\Application_Demo\\shopping\\.dart_tool\\package_config.json C:\\Users\\ASUS\\Desktop\\flutter\\bin\\cache\\dart-sdk\\version C:\\Users\\ASUS\\Desktop\\shop\\pubspec.yaml c:\\users\\asus\\desktop\\application_demo\\shopping\\.dart_tool\\package_config.json
